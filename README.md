@@ -1,4 +1,4 @@
 jquery.kannstemachen.js
 =======================
 
-#kannstemachen jQuery plugin
+ #kannstemachen jQuery plugin
