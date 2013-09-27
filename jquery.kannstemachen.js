@@ -1,6 +1,6 @@
 !(function($) {
 
-    var kannstemachen = $('<div style="background-color: red;height:160px;width: 110px;box-shadow: 2px 2px 4px 2px rgba(0,0,0,0.3);display:none;position:absolute;top:10px;right:10px;z-index:999999999;"><p style="text-transform: uppercase; font-size:14px; color: #fff; line-height: 14px; font-weight: bold; padding:8px;margin:0;font-family: Arial, Helvetica, Sans, Sans-Serif, \'Sans Serif\';">Das<br>kannste<br>schon<br>so<br>machen,<br>aber<br>dann<br>isses<br>halt<br>kacke.</p></div>');
+    var kannstemachen = $('<div style="background-color: red;height:200px;width: 140px;box-shadow: 2px 2px 4px 2px rgba(0,0,0,0.3);display:none;position:absolute;top:10px;right:10px;z-index:999999999;"><p style="text-transform: uppercase; font-size:18px; color: #fff; line-height: 18px; font-weight: bold; padding:8px;margin:0;font-family: Arial, Sans, Sans-Serif, \'Sans Serif\';">Das<br>kannste<br>schon<br>so<br>machen,<br>aber<br>dann<br>isses<br>halt<br>kacke.</p></div>');
 
     $.fn.kannstemachen = function() {
         return this.each(function() {
